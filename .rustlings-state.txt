@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-tests1
+box1
 
 intro1
 intro2
@@ -27,6 +27,7 @@ primitive_types5
 primitive_types6
 vecs1
 vecs2
+move_semantics1
 move_semantics2
 move_semantics3
 move_semantics4
@@ -68,3 +69,11 @@ quiz3
 lifetimes1
 lifetimes2
 lifetimes3
+tests1
+tests2
+tests3
+iterators1
+iterators2
+iterators3
+iterators4
+iterators5
